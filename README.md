@@ -5,7 +5,7 @@ Making the robot move from starting position to goal position without colliding 
 HOW TO RUN:
 In the ricochet_robot.pyde file set ->   path_to_file_containing_puzzle = "Path_to_input_file".
 
-Input file(.txt) should have following format:
+Input file should have following format:
 
 8 # Number of rows
 
